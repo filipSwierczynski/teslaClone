@@ -32,6 +32,8 @@
     display: flex;
     justify-content: flex-end;
     text-transform: uppercase;
+    margin-right: 30px;
+
 }
 
 .header__right>p {
